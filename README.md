@@ -3,6 +3,7 @@
 ## Overview
 This project performs an **Exploratory Data Analysis (EDA)** on the classic [Titanic dataset](https://www.kaggle.com/c/titanic) to identify key factors influencing passenger survival. The analysis uses Python with **Pandas**, **Seaborn**, and **Matplotlib** to visualize survival rates across demographic and socio-economic features.
 
+<img width="879" height="496" alt="image" src="https://github.com/user-attachments/assets/download.jpeg" />
 ## 📊 Key Visualizations & Findings
 
 | Feature Analyzed | Plot Type | Key Finding |
